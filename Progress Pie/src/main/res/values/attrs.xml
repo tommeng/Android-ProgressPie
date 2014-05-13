@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressPie">
+        <attr name="PIE_background_color" format="reference"/>
+        <attr name="PIE_foreground_color" format="reference"/>
+    </declare-styleable>
+</resources>

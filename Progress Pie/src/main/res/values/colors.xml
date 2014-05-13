@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--Official Android Colors-->
+    <color name="android_color_blue_dark">#0099CC</color>
+    <color name="android_color_blue_light">#33B5E5</color>
+    <color name="android_color_purple_dark">#9933CC</color>
+    <color name="android_color_purple_light">#AA66CC</color>
+    <color name="android_color_orange_light">#FFBB33</color>
+    <color name="android_color_orange_dark">#FF8800</color>
+    <color name="android_color_red_light">#FF4444</color>
+    <color name="android_color_red_dark">#CC0000</color>
+    <color name="android_color_green_light">#73c533</color>
+    <color name="android_color_green_dark">#66b02e</color>
+</resources>

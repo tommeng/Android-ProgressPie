@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Progress Pie/Progress Pie.iml" filepath="$PROJECT_DIR$/Progress Pie/Progress Pie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressPie.iml" filepath="$PROJECT_DIR$/ProgressPie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+    </modules>
+  </component>
+</project>
+
