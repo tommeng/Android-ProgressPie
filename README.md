@@ -3,6 +3,12 @@ Android-ProgressPie
 
 A progress bar extension for Android.
 
+<div>
+<img src="http://tommeng.com/static/progresspie_sample.gif"/>
+<img src="http://tommeng.com/static/progresspie_sample2.png" height="400" width="200"/>
+</div>
+
+
 ProgressPie
 -----------
 void setForegroundColor(int color)
