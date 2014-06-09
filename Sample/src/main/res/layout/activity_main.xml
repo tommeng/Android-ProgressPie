@@ -16,7 +16,8 @@
         android:layout_height="150dip"
         android:layout_gravity="center"
         app:PIE_foreground_color="@color/android_color_orange_dark"
-        app:PIE_background_color="@color/android_color_blue_light"/>
+        app:PIE_background_color="@color/android_color_blue_light"
+        app:progressbar_style="border"/>
 
     <LinearLayout
         android:layout_width="match_parent"

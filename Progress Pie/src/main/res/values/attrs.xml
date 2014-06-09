@@ -3,5 +3,6 @@
     <declare-styleable name="ProgressPie">
         <attr name="PIE_background_color" format="reference"/>
         <attr name="PIE_foreground_color" format="reference"/>
+        <attr name="progressbar_style" format="string" />
     </declare-styleable>
 </resources>
